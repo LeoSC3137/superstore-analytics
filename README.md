@@ -1,4 +1,4 @@
-\Superstore Analytics — Portfolio de Consultoría
+Superstore Analytics — Portfolio de Consultoría
 
 
 
@@ -11,81 +11,80 @@ Proyecto de práctica para consultoría de datos y finanzas.
 
 
 
-\---
 
 
 
-\• Proyectos incluidos
+
+• Proyectos incluidos
 
 
 
-\ 1. Análisis de Rentabilidad
+ 1. Análisis de Rentabilidad
 
-\- Rentabilidad por categoría y sub-categoría
+- Rentabilidad por categoría y sub-categoría
 
-\- Impacto de descuentos en márgenes
+- Impacto de descuentos en márgenes
 
-\- Visualizaciones profesionales con matplotlib
+- Visualizaciones profesionales con matplotlib
 
-\- \*\*Herramientas:\*\* Python, pandas, matplotlib
-
-
-
-\ 2. Base de Datos Relacional
-
-\- Modelo de 4 tablas: customers, orders, products, order\_items
-
-\- Queries analíticos con JOIN, GROUP BY y HAVING
-
-\- \*\*Herramientas:\*\* Python, SQLite, SQL
+- \*\*Herramientas:\*\* Python, pandas, matplotlib
 
 
 
-\ 3. Modelo P\&L Automatizado
+ 2. Base de Datos Relacional
 
-\- Estado de resultados por año y categoría
+- Modelo de 4 tablas: customers, orders, products, order\_items
 
-\- Exportado a Excel con formato profesional
+- Queries analíticos con JOIN, GROUP BY y HAVING
 
-\- \*\*Herramientas:\*\* Python, pandas, openpyxl
-
-
-
-\ 4. Dashboard Power BI
-
-\- KPIs interactivos con slicers por región
-
-\- Medidas DAX para margen dinámico
-
-\- \*\*Herramientas:\*\* Power BI, DAX
+- \*\*Herramientas:\*\* Python, SQLite, SQL
 
 
 
-\ 5. Forecasting de Ventas
+ 3. Modelo P\&L Automatizado
 
-\- Serie de tiempo mensual 2014-2017
+- Estado de resultados por año y categoría
 
-\- Proyección a 12 meses con intervalo de confianza
+- Exportado a Excel con formato profesional
 
-\- \*\*Herramientas:\*\* Python, Prophet
-
-
-
-\ 6. Caso de Consultoría Completo
-
-\- Presentación ejecutiva de 6 slides generada automáticamente
-
-\- Hallazgos y recomendaciones estratégicas
-
-\- \*\*Herramientas:\*\* Python, python-pptx
+- \*\*Herramientas:\*\* Python, pandas, openpyxl
 
 
 
-\---
+ 4. Dashboard Power BI
+
+- KPIs interactivos con slicers por región
+
+- Medidas DAX para margen dinámico
+
+- \*\*Herramientas:\*\* Power BI, DAX
 
 
 
-\ Hallazgos principales
+ 5. Forecasting de Ventas
+
+- Serie de tiempo mensual 2014-2017
+
+- Proyección a 12 meses con intervalo de confianza
+
+- \*\*Herramientas:\*\* Python, Prophet
+
+
+
+ 6. Caso de Consultoría Completo
+
+- Presentación ejecutiva de 6 slides generada automáticamente
+
+- Hallazgos y recomendaciones estratégicas
+
+- \*\*Herramientas:\*\* Python, python-pptx
+
+
+
+
+
+
+ Hallazgos principales
 
 
 1\. \*\*Furniture\*\* opera con margen de 2.5% vs 17% de Technology
@@ -97,10 +96,9 @@ Proyecto de práctica para consultoría de datos y finanzas.
 4\. \*\*Región Central\*\* tiene margen 4 puntos por debajo del promedio global
 
 
-\---
 
 
-\ Stack tecnológico
+ Stack tecnológico
 
 
 
@@ -108,9 +106,5 @@ Python | pandas | matplotlib | SQL | SQLite | Power BI | Prophet | openpyxl | py
 
 
 
-\---
-
-
-
-\*Desarrollado como portafolio de consultoría de datos y finanzas.\*
+*Desarrollado como portafolio de consultoría de datos y finanzas.*
 

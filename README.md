@@ -1,12 +1,13 @@
-\# Superstore Analytics — Portfolio de Consultoría
+\Superstore Analytics — Portfolio de Consultoría
 
 
 
 Análisis completo de rentabilidad, modelado financiero y forecasting
 
-sobre el dataset Sample Superstore. Proyecto de práctica para consultoría
+sobre el dataset Sample Superstore (Base de datos pública extraída de github). 
 
-de datos y finanzas.
+
+Proyecto de práctica para consultoría de datos y finanzas.
 
 
 
@@ -14,11 +15,11 @@ de datos y finanzas.
 
 
 
-\## Proyectos incluidos
+\• Proyectos incluidos
 
 
 
-\### 1. Análisis de Rentabilidad
+\ 1. Análisis de Rentabilidad
 
 \- Rentabilidad por categoría y sub-categoría
 
@@ -30,7 +31,7 @@ de datos y finanzas.
 
 
 
-\### 2. Base de Datos Relacional
+\ 2. Base de Datos Relacional
 
 \- Modelo de 4 tablas: customers, orders, products, order\_items
 
@@ -40,7 +41,7 @@ de datos y finanzas.
 
 
 
-\### 3. Modelo P\&L Automatizado
+\ 3. Modelo P\&L Automatizado
 
 \- Estado de resultados por año y categoría
 
@@ -50,7 +51,7 @@ de datos y finanzas.
 
 
 
-\### 4. Dashboard Power BI
+\ 4. Dashboard Power BI
 
 \- KPIs interactivos con slicers por región
 
@@ -60,7 +61,7 @@ de datos y finanzas.
 
 
 
-\### 5. Forecasting de Ventas
+\ 5. Forecasting de Ventas
 
 \- Serie de tiempo mensual 2014-2017
 
@@ -70,7 +71,7 @@ de datos y finanzas.
 
 
 
-\### 6. Caso de Consultoría Completo
+\ 6. Caso de Consultoría Completo
 
 \- Presentación ejecutiva de 6 slides generada automáticamente
 
@@ -84,8 +85,7 @@ de datos y finanzas.
 
 
 
-\## Hallazgos principales
-
+\ Hallazgos principales
 
 
 1\. \*\*Furniture\*\* opera con margen de 2.5% vs 17% de Technology
@@ -97,12 +97,10 @@ de datos y finanzas.
 4\. \*\*Región Central\*\* tiene margen 4 puntos por debajo del promedio global
 
 
-
 \---
 
 
-
-\## Stack tecnológico
+\ Stack tecnológico
 
 
 
@@ -114,5 +112,5 @@ Python | pandas | matplotlib | SQL | SQLite | Power BI | Prophet | openpyxl | py
 
 
 
-\*Desarrollado como portfolio de consultoría de datos y finanzas.\*
+\*Desarrollado como portafolio de consultoría de datos y finanzas.\*
 

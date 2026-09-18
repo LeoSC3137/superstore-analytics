@@ -17,11 +17,10 @@ Antes de ver el código, estos son los descubrimientos estratégicos clave deriv
 
 ## 🛠️ Stack Tecnológico
 
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![SQLite](https://shields.io)
-![Power BI](https://img.shields.io/badge/Power%20BI-Ready-blue)
-
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Frames-150458?logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=postgresql&logoColor=blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=white)
 
 
 ---
